@@ -23,7 +23,7 @@ This code execute plot command in two type of terminals: `qt` / `pngcairo`.
 
 # Usage
 ```
-git clone https://github.com/hoge/~
+git clone https://github.com/hiroloquy/draw-gnuplot-icon.git
 cd draw-gnuplot-icon
 gnuplot
 load 'draw_gnuplot_icon.plt'
