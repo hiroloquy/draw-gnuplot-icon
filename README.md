@@ -37,7 +37,7 @@ There are two ways to get a PNG image, using `qt` terminal and `pngcairo` termin
  
 # Author
 * Hiro Shigeyoshi
-* Twitter: https://twitter.com/Sm_pgmf
+* Twitter: https://twitter.com/hiroloquy
  
 # License
 "draw_gnuplot_icon" is under [Hiroloquy](https://hiroloquy.com/).
