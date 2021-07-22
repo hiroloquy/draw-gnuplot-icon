@@ -32,9 +32,9 @@ do for [i=1:2:1]{ # y-axis
 }
 
 # Graphs
-plot 'pos.txt' using 1:2 w l lw lineWidth lc rgb 'green', \
+plot 'pos.txt' using 5:6 w l lw lineWidth lc rgb 'blue', \
      'pos.txt' using 3:4 w l lw lineWidth lc rgb 'red', \
-     'pos.txt' using 5:6 w l lw lineWidth lc rgb 'blue'
+     'pos.txt' using 1:2 w l lw lineWidth lc rgb 'green'
 
 # Output PNG image
 set term pngcairo size 400, 400 font "Times, 20"
