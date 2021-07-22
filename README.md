@@ -6,7 +6,7 @@
 ![demo](demo.gif)
 
 ## Get gnuplot icon image from qt window
-![png_in_qt](icon.png)
+![png_in_qt](icon_qt2png.png)
 
 # Features
 - You can get gnuplot icon by running this code.
