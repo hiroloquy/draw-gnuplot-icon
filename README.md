@@ -6,7 +6,7 @@
 ![demo](demo.gif)
 
 ## Get gnuplot icon image from qt window
-![png_in_qt](icon_qt2png.png)
+![png_in_qt](icon.png)
 
 # Features
 - You can get gnuplot icon by running this code.
@@ -33,7 +33,7 @@ load 'draw_gnuplot_icon.plt'
 There are two ways to get a PNG image, using `qt` terminal and `pngcairo` terminal.
 **If you follow the method using the `pngcairo` terminal, you will get a PNG image with a part of the upper left corner missing.** The cause of this problem is not yet known.
 
-![falut](icon_pngcairo.png)
+![fault](icon_pngcairo.png)
  
 # Author
 * Hiro Shigeyoshi
