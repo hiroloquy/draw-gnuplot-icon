@@ -40,5 +40,5 @@ There are two ways to get a PNG image, using `qt` terminal and `pngcairo` termin
 * Twitter: https://twitter.com/hiroloquy
  
 # License
-"draw_gnuplot_icon" is under [Hiroloquy](https://hiroloquy.com/).
+"draw_gnuplot_icon" is under [MIT license](https://github.com/hiroloquy/draw-gnuplot-icon/blob/master/LICENSE).
  
