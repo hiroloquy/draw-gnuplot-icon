@@ -1,12 +1,15 @@
-# draw-gnuplot-icon
-"draw-gnuplot-icon" generates gnuplot icon by using `plot` command.
+# Draw gnuplot icon
+"draw-gnuplot-icon" generates a gnuplot icon image by using `plot` command.  
+If you want to animate the icon and save GIF, please see [**here**](https://github.com/hiroloquy/animate-gnuplot-icon/blob/master/README.md).
 
 # DEMO
 ## VScode
-![demo](demo.gif)
+<!-- ![demo](demo.gif) -->
+<img src="demo.gif" alt="demo" title="demo" width="600">
 
 ## Get gnuplot icon image from qt window
-![png_in_qt](icon.png)
+<!-- ![png_in_qt](icon.png) -->
+<img src="icon.png" alt="png_in_qt" title="png_in_qt" width="300">
 
 # Features
 - You can get gnuplot icon by running this code.
@@ -40,5 +43,5 @@ There are two ways to get a PNG image, using `qt` terminal and `pngcairo` termin
 * Twitter: https://twitter.com/hiroloquy
  
 # License
-"draw_gnuplot_icon" is under [MIT license](https://github.com/hiroloquy/draw-gnuplot-icon/blob/master/LICENSE).
+"draw-gnuplot-icon" is under [MIT license](https://github.com/hiroloquy/draw-gnuplot-icon/blob/master/LICENSE).
  
